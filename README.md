@@ -1,5 +1,4 @@
 # slides-js-linked-lists
-# slides-express-middleware
 
 ## How to present with these slides:
 
